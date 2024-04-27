@@ -1,6 +1,5 @@
 
 set(ENABLED_GEMS
-    Planet_Storm
     Atom
     AudioSystem
     AWSCore
@@ -22,11 +21,9 @@ set(ENABLED_GEMS
     TextureAtlas
     WhiteBox
     PhysXDebug
-    PhysXSamples
     PythonAssetBuilder
     QtForPython
     ScriptCanvas
-    ScriptCanvasDeveloperGem
     ScriptCanvasTesting
     Vegetation
     GameStateSamples

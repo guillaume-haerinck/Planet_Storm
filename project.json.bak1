@@ -11,7 +11,6 @@
         "Planet_Storm"
     ],
     "icon_path": "preview.png",
-    "engine": "o3de",
-    "project_id": "{70b4130e-c161-4dbc-91b7-301be64a390b}",
-    "engine_version": "2.2.2"
+    "engine": "o3de-install",
+    "project_id": "{70b4130e-c161-4dbc-91b7-301be64a390b}"
 }
